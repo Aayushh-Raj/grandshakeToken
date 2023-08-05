@@ -1,6 +1,6 @@
 ##############################
 #GrandShake Importer Script
-#Author - Ayush Raj and Neeraj Nair
+#Author - Ayush Raj
 #Version 1.5
 ##############################
 
